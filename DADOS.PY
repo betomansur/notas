@@ -39,7 +39,11 @@ media_aps = soma/len(lista_aps)
 
 NA = AV1*0.15+AV2*0.25+AV3*0.20+AV4*0.40
 
-NP = media_aps*0.1 + PROJ1*0.4+PROJ2*0.5
+NP = media_aps*0.1 + PROJ1*0.45+PROJ2*0.45
+
+if NP < 5:
+    print("INSTA DP")
+    
 
 NOTA = (NP+NA)/2
 
