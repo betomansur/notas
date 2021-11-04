@@ -1,6 +1,6 @@
 aps1 = 7.5
 aps2 = 2
-aps3 = 0
+aps3 = 4.4
 aps4 = 0
 aps5 = 0
 quiz1 = 2.2
