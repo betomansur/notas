@@ -13,7 +13,7 @@ AV2 = 4
 AV3 = 0
 AV4 = 0
 PROJ1 = D
-PROJ2 = 0
+PROJ2 = B
 aps1 = 10
 aps2 = 10
 aps3 = 7.5
@@ -43,7 +43,9 @@ NP = media_aps*0.1 + PROJ1*0.45+PROJ2*0.45
 
 if NP < 5:
     print("INSTA DP")
-    
+
+if NA < 5:
+    print("INSTA DP")
 
 NOTA = (NP+NA)/2
 
