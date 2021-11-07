@@ -39,6 +39,7 @@ else:
     print("Media de projetos: SIM")
 
 if coef< 5:
+    print(coef)
     print("Coeficiente de aprovação: NÃO")
 else:
     print("Coeficiente de aprovação: SIM")
