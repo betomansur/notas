@@ -1,11 +1,11 @@
 import statistics as st
 AV1 = 2.5
 AV2 = 4.55
-AV3 = 0
+AV3 = 4.15
 AV4 = 0
 EX1 = 7.5
 EX2 = 7.5
-EX3 = 0
+EX3 = 7.5
 EX4 = 0
 PROJ1 = 0
 PROJ2 = 0
