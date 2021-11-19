@@ -6,9 +6,9 @@ AV4 = 0
 EX1 = 7.5
 EX2 = 7.5
 EX3 = 7.5
-EX4 = 0
-PROJ1 = 0
-PROJ2 = 0
+EX4 = 7.5
+PROJ1 = 5
+PROJ2 = 5
 
 
 media_p = AV1+AV2+AV3+AV4
@@ -43,3 +43,4 @@ if coef< 5:
     print("Coeficiente de aprovação: NÃO")
 else:
     print("Coeficiente de aprovação: SIM")
+print(coef)

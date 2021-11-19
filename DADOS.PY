@@ -20,8 +20,8 @@ aps3 = 7.5
 aps4 = 10
 aps5 = 10
 aps6 = 10
-aps7 = 0
-aps8 = 0
+aps7 = 10
+aps8 = 10
 aps9 = 0
 
 lista_aps = [aps1,aps2,aps3,aps4,aps5,aps6,aps7,aps8,aps9]
