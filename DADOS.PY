@@ -10,7 +10,7 @@ Ap=10
 
 AV1 = 8.5
 AV2 = 4
-AV3 = 0
+AV3 = 2
 AV4 = 0
 PROJ1 = D
 PROJ2 = 0
