@@ -3,7 +3,7 @@ AV2 = 3.8
 AV3 = 7.6
 AV4 = 0
 EF = 0
-APS = 0
+APS = 9.1
 
 mediak = (AV1+AV2+AV3)/3
 
