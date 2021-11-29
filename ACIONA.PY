@@ -5,10 +5,10 @@ AV3 = 4.15
 AV4 = 0
 EX1 = 7.5
 EX2 = 7.5
-EX3 = 7.5
-EX4 = 7.5
-PROJ1 = 5
-PROJ2 = 5
+EX3 = 0
+EX4 = 0
+PROJ1 = 7.5
+PROJ2 = 0
 
 
 media_p = AV1+AV2+AV3+AV4
@@ -31,10 +31,10 @@ else:
 
 print('Critérios de aprovação:')
 proj = PROJ1 + PROJ2
-proj = proj/2
+proja = proj/2
 
-if proj< 5:
-    print("Media de projetos: NÃO")
+if proja< 5:
+    print("Media de projetos: NAO")
 else:
     print("Media de projetos: SIM")
 
@@ -43,4 +43,3 @@ if coef< 5:
     print("Coeficiente de aprovação: NÃO")
 else:
     print("Coeficiente de aprovação: SIM")
-print(coef)
