@@ -41,17 +41,21 @@ NA = AV1*0.15+AV2*0.25+AV3*0.20+AV4*0.40
 
 NP = media_aps*0.1 + PROJ1*0.45+PROJ2*0.45
 
+NOTA = (NP+NA)/2
+
+
 if NP < 5:
     print("INSTA DP")
+    print('NP: {}'.format(NP))
 
 if NA < 5:
     print("INSTA DP")
+    print('NA: {}'.format(NA))
 
-NOTA = (NP+NA)/2
-
-print("Minha nota de DADOS é :{0}".format(NOTA))
-if NOTA >= 5:
-    print('APROVADO')
 else:
-    print('REPROVADO')
+    print("Minha nota de DADOS é :{0}".format(NOTA))
+    if NOTA >= 5:
+        print('APROVADO')
+    else:
+        print('REPROVADO')
 
