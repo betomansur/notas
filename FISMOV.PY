@@ -4,7 +4,7 @@ aps3 = 4.4
 aps4 = 3.6
 aps5 = 4.8
 quiz1 = 2.2
-quiz2 = 0
+quiz2 = 3.75
 PI = 3.5
 PF = 0
 
